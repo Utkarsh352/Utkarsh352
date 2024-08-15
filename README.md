@@ -17,7 +17,6 @@ Cloud Services: Azure, AWS
 
 <br>
 
-
 #### Some Technical Stuff I Work With
 
 **👨‍💻 Programming Languages**

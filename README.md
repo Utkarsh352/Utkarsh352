@@ -16,6 +16,7 @@ Cloud Services: Azure, AWS
 * 📄 Get my resume [Here](https://drive.google.com/file/d/1NFd5c1NLEgHyk1H1-DyCPtnAlWDToe98/view?usp=sharing).
 
 <br>
+
 #### Some Technical Stuff I Work With
 
 **👨‍💻 Programming Languages**
@@ -26,7 +27,6 @@ Cloud Services: Azure, AWS
 **🛠️ Libraries & Frameworks & Tools**
 
 * GoFiber | Gin | Gorm | Godot | GRPC | WebSockets
-
 
 
 **✨ Software Architecture**

@@ -11,12 +11,11 @@ Cloud Services: Azure, AWS
 
 #### Look at this
 
-* 👯 I’m looking to collaborate on Open-Source GoLang Projects.
+* 👯 I’m looking to collaborate on GoLang Projects.
 * 💬 Ask me about Backend-Developement and data engineering.
 * 📄 Get my resume [Here](https://drive.google.com/file/d/1NFd5c1NLEgHyk1H1-DyCPtnAlWDToe98/view?usp=sharing).
 
 <br>
-
 #### Some Technical Stuff I Work With
 
 **👨‍💻 Programming Languages**

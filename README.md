@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello 👋, I'm Utkarsh Mahajan. I'm a 3rd-year BE- Computer Science Engineering (BIG DATA ANALYTICS) Student at Chandigarh University.
+Hello 👋, I'm Utkarsh Mahajan, a 3rd-year BE- Computer Science Engineering (BIG DATA ANALYTICS) Student at Chandigarh University.
 
 I am a highly skilled Go Developer with a strong passion for building efficient and scalable applications. My expertise lies in developing robust backend systems, microservices, and APIs using Go. I am proficient in optimizing performance and ensuring high availability of services. With a solid understanding of concurrent programming, I excel at leveraging Go's strengths to build high-performance applications. I am adept at working through the entire software development lifecycle, from gathering requirements and designing architecture to implementation and deployment. My strong communication skills enable me to collaborate effectively with cross-functional teams and stakeholders.
 

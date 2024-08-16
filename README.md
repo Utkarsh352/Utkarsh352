@@ -5,8 +5,11 @@ Hello 👋, I'm Utkarsh Mahajan, a 3rd-year BE- Computer Science Engineering (BI
 I am a highly skilled Go Developer with a strong passion for building efficient and scalable applications. My expertise lies in developing robust backend systems, microservices, and APIs using Go. I am proficient in optimizing performance and ensuring high availability of services. With a solid understanding of concurrent programming, I excel at leveraging Go's strengths to build high-performance applications. I am adept at working through the entire software development lifecycle, from gathering requirements and designing architecture to implementation and deployment. My strong communication skills enable me to collaborate effectively with cross-functional teams and stakeholders.
 
 Hard skills: Golang (Go), Python
+
 Databases: Postgresql (SQL),  MongoDB (NOSQL), redis
+
 Technologies: Microservices, APIs, Concurrent Programming, Docker, Kubernetes, Git
+
 Cloud Services: Azure, AWS
 
 #### Look at this

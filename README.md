@@ -45,7 +45,7 @@ Cloud Services: Azure, AWS
 
 **☁️ Cloud**
 
-* Firebase | AWS | Azure | GCP
+* Firebase | AWS | Azure 
 
 
 **🌐 DevOps**

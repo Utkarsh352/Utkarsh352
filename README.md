@@ -1,62 +1,26 @@
-### Introduction
-
-Hello 👋, I'm Utkarsh Mahajan, a 3rd-year BE- Computer Science Engineering (BIG DATA ANALYTICS) Student at Chandigarh University.
-
-I am a highly skilled Go Developer with a strong passion for building efficient and scalable applications. My expertise lies in developing robust backend systems, microservices, and APIs using Go. I am proficient in optimizing performance and ensuring high availability of services. With a solid understanding of concurrent programming, I excel at leveraging Go's strengths to build high-performance applications. I am adept at working through the entire software development lifecycle, from gathering requirements and designing architecture to implementation and deployment. My strong communication skills enable me to collaborate effectively with cross-functional teams and stakeholders.
-
-Hard skills: Golang (Go), Python
-
-Databases: Postgresql (SQL),  MongoDB (NOSQL), redis
-
-Technologies: Microservices, APIs, Concurrent Programming, Docker, Kubernetes, Git
-
-Cloud Services: Azure, AWS
-
-#### Look at this
-
-* 👯 I’m looking to collaborate on GoLang Projects.
-* 💬 Ask me about Backend-Developement and data engineering.
-* 📄 Get my resume [Here](https://drive.google.com/file/d/1m0l_B1Ni5FB93kPufvN_N3tSLPaeHX1j/view?usp=sharing).
-
-<br>
-
-#### Some Technical Stuff I Work With
-
-**👨‍💻 Programming Languages**
-
-* Go (Golang) | Python
-
-
-**🛠️ Libraries & Frameworks & Tools**
-
-* GoFiber | Gin | Gorm | Godot | GRPC | WebSockets
-
-
-**✨ Software Architecture**
-
-* REST API | Microservices | Distributed | Event Driven Architecture 
-
-
-**💾 Databases**
-
-* PostgreSQL | MongoDB | Redis | Kafka
-
-
-
-**☁️ Cloud**
-
-* Firebase | AWS | Azure 
-
-
-**🌐 DevOps**
-
-* Linux | Docker | Kubernetes
-
-
-<br>
-
-
-**Contact Me:**
-
+I am a Software Developer specializing in full-stack, blockchain, and distributed AI systems. I build production-grade Web3, AI, and cloud solutions with expertise in Go, Python, TypeScript, Solidity, Rust, and performance-optimized architectures. I have hands-on experience in scalable microservices, distributed systems, and zero-knowledge protocols, delivering secure and high-performance applications.
+What I Do
+Build scalable backend systems and microservices with Go, Python, and TypeScript.
+Develop blockchain solutions using Cosmos SDK, Substrate, zk-Rollups, and zk-SNARKs.
+Design and maintain distributed AI and inference engines, implementing generative AI, LangChain, Ray, and vLLM workflows.
+Optimize databases and cloud infrastructure (MongoDB, PostgreSQL, MySQL, DynamoDB, Pinecone, AWS, Azure, GCP).
+Implement DevOps and monitoring pipelines with Docker, Terraform, Prometheus, Grafana, and Kubernetes.
+Featured Projects
+Distributed AI Inference Engine – Managed a scalable AI cluster with automated deployment, secure access, and edge computing optimization.
+OCR-Based CRM – Built AI-powered receipt scanning and real-time dashboards for inventory management and data visualization.
+Zero-Knowledge Credentials Verification – Developed a decentralized credential verification system using zk-SNARK circuits and QR-based proof artifacts.
+Tools & Technologies
+Languages: Go | Python | TypeScript | Rust | Solidity
+Frameworks & Libraries: Gin | FastAPI | Express | React | React-Native | Next.js | Actix-Web | Axum | LangChain | Ray
+Databases: PostgreSQL | MongoDB | MySQL | DynamoDB | Pinecone | Redis | Kafka
+Cloud & DevOps: AWS | Azure | GCP | Docker | Terraform | Kubernetes | Prometheus | Grafana
+Blockchain & Web3: Cosmos SDK (IBC) | Substrate | zk-Rollups | zk-SNARKs
+Achievements
+Won $4000 EduChain Semester 2 out of 5000+ developers
+Won Techathon out of 750+ teams
+1st Track prize at Electrothon 6.0
+Top-5 BharatX Hackathon
+Contact Me:
 <a href="mailto:utu3528@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/utkarsh-3528"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://linkedin.com/in/utkarsh-3528"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/utkarsh-3528"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

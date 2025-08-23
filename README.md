@@ -1,150 +1,56 @@
-<div align="center">
-
-# 🚀 Utkarsh352
-
-### ✨ An amazing software project ✨
-
-[![GitHub stars](https://img.shields.io/github/stars/Utkarsh352/Utkarsh352?style=for-the-badge&logo=github)](https://github.com/Utkarsh352/Utkarsh352/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Utkarsh352/Utkarsh352?style=for-the-badge)](https://github.com/Utkarsh352/Utkarsh352/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Utkarsh352/Utkarsh352?style=for-the-badge)](https://github.com/Utkarsh352/Utkarsh352/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Utkarsh352/Utkarsh352?style=for-the-badge)](https://github.com/Utkarsh352/Utkarsh352/network)
-
-</div>
+Here’s a completely rewritten GitHub bio based on your resume, without mentioning “student” or “engineering,” and highlighting your experience, skills, and projects:
 
 ---
 
-## 🌟 Features
+### Hi 👋
 
-- ⚡ **Fast & Efficient** - Optimized for performance
-- 🛠️ **Easy to Use** - Simple and intuitive interface
-- 📦 **Lightweight** - Minimal dependencies
-- 🔧 **Customizable** - Highly configurable
-- 🌐 **Cross-Platform** - Works everywhere
+I am a **Software Developer** specializing in **full-stack, blockchain, and distributed AI systems**. I build **production-grade Web3, AI, and cloud solutions** with expertise in **Go, Python, TypeScript, Solidity, Rust, and performance-optimized architectures**. I have hands-on experience in **scalable microservices, distributed systems, and zero-knowledge protocols**, delivering secure and high-performance applications.
 
 ---
 
-## 🚀 Quick Start
+#### What I Do
 
-### Prerequisites
-
-- Node.js 16+ / Python 3.8+ (depending on your project)
-- Git
-
-### Installation
-
-```bash
-# 📥 Clone the repository
-git clone https://github.com/Utkarsh352/Utkarsh352.git
-
-# 📂 Navigate to project directory
-cd Utkarsh352
-
-# 📦 Install dependencies
-npm install
-# or
-pip install -r requirements.txt
-```
-
-### 🎯 Usage
-
-```bash
-# 🏃‍♂️ Run the project
-npm start
-# or
-python main.py
-```
+* Build **scalable backend systems** and microservices with Go, Python, and TypeScript.
+* Develop **blockchain solutions** using Cosmos SDK, Substrate, zk-Rollups, and zk-SNARKs.
+* Design and maintain **distributed AI and inference engines**, implementing generative AI, LangChain, Ray, and vLLM workflows.
+* Optimize **databases and cloud infrastructure** (MongoDB, PostgreSQL, MySQL, DynamoDB, Pinecone, AWS, Azure, GCP).
+* Implement **DevOps and monitoring** pipelines with Docker, Terraform, Prometheus, Grafana, and Kubernetes.
 
 ---
 
-## 📖 Documentation
+#### Featured Projects
 
-<details>
-<summary>📚 Click to expand documentation</summary>
+**Distributed AI Inference Engine** – Managed a scalable AI cluster with automated deployment, secure access, and edge computing optimization.
 
-### Configuration
+**OCR-Based CRM** – Built AI-powered receipt scanning and real-time dashboards for inventory management and data visualization.
 
-```json
-{
-  "option1": "value1",
-  "option2": "value2"
-}
-```
-
-### Examples
-
-```javascript
-// Example usage
-const example = new Example();
-example.run();
-```
-
-</details>
+**Zero-Knowledge Credentials Verification** – Developed a decentralized credential verification system using zk-SNARK circuits and QR-based proof artifacts.
 
 ---
 
-## 🏗️ Project Structure
+#### Tools & Technologies
 
-```
-Utkarsh352/
-├── 📁 src/          # Source code
-├── 📁 docs/         # Documentation
-├── 📁 tests/        # Test files
-├── 📄 README.md     # You are here
-└── 📄 package.json  # Dependencies
-```
+**Languages:** Go | Python | TypeScript | Rust | Solidity
+**Frameworks & Libraries:** Gin | FastAPI | Express | React | React-Native | Next.js | Actix-Web | Axum | LangChain | Ray
+**Databases:** PostgreSQL | MongoDB | MySQL | DynamoDB | Pinecone | Redis | Kafka
+**Cloud & DevOps:** AWS | Azure | GCP | Docker | Terraform | Kubernetes | Prometheus | Grafana
+**Blockchain & Web3:** Cosmos SDK (IBC) | Substrate | zk-Rollups | zk-SNARKs
 
 ---
 
-## 🤝 Contributing
+**Achievements**
 
-We love contributions! 🎉
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🔄 **Open** a Pull Request
+* Won \$4000 EduChain Semester 2 out of 5000+ developers
+* Won Techathon out of 750+ teams
+* 1st Track prize at Electrothon 6.0
+* Top-5 BharatX Hackathon
 
 ---
 
-## 📊 Stats
+**Contact Me:**
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Utkarsh352/Utkarsh352?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/Utkarsh352/Utkarsh352?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/Utkarsh352/Utkarsh352?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Utkarsh352/Utkarsh352?style=flat-square)
-
-</div>
+<a href="mailto:utu3528@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/utkarsh-3528"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/utkarsh-3528"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 💝 Support
-
-If you found this project helpful, please consider:
-
-- ⭐ **Starring** the repository
-- 🐛 **Reporting** bugs
-- 💡 **Suggesting** new features
-- 🤝 **Contributing** to the code
-
----
-
-<div align="center">
-
-### 🙏 Thank you for using Utkarsh352!
-
-**Made with ❤️ by [Utkarsh352](https://github.com/Utkarsh352)**
-
----
-
-*🤖 This README was automatically generated by a GitHub App. Please update it with project-specific information.*
-
-</div>
+If you want, I can also make a **shorter, punchier version optimized specifically for GitHub**, so it’s scannable at a glance while keeping your full expertise clear. Do you want me to do that?

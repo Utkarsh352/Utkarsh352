@@ -36,9 +36,13 @@ Developed a decentralized credential verification system using zk-SNARK circuits
 ## Tools & Technologies
 
 **Languages:** Go | Python | TypeScript | Rust | Solidity
+
 **Frameworks & Libraries:** Gin | FastAPI | Express | React | React-Native | Next.js | Actix-Web | Axum | LangChain | Ray
+
 **Databases:** PostgreSQL | MongoDB | MySQL | DynamoDB | Pinecone | Redis | Kafka
+
 **Cloud & DevOps:** AWS | Azure | GCP | Docker | Terraform | Kubernetes | Prometheus | Grafana
+
 **Blockchain & Web3:** Cosmos SDK (IBC) | Substrate | zk-Rollups | zk-SNARKs
 
 ---

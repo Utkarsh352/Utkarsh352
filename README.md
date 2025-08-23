@@ -1,7 +1,3 @@
-Here’s a **well-formatted GitHub bio** version of your resume that’s clean, readable, and ready to paste:
-
----
-
 # Utkarsh Mahajan 👋
 
 **Software Developer | Full-Stack, Blockchain & Distributed AI Systems**

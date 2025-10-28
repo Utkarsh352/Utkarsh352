@@ -33,13 +33,13 @@ Developed a decentralized credential verification system using zk-SNARK circuits
 
 **Languages:** Go | Python | TypeScript | Rust | Solidity
 
-**Frameworks & Libraries:** Gin | FastAPI | Express | React | React-Native | Next.js | Actix-Web | Axum | LangChain | Ray
+**Frameworks & Libraries:** Gin | FastAPI | Express | React | React-Native | Next.js | LangChain | Ray
 
 **Databases:** PostgreSQL | MongoDB | MySQL | DynamoDB | Pinecone | Redis | Kafka
 
-**Cloud & DevOps:** AWS | Azure | GCP | Docker | Terraform | Kubernetes | Prometheus | Grafana
+**Cloud & DevOps:** AWS | Azure | GCP | Docker | Terraform 
 
-**Blockchain & Web3:** Cosmos SDK (IBC) | Substrate | zk-Rollups | zk-SNARKs
+**Blockchain & Web3:** RWA | Defi | Substrate | zk-Rollups | zk-SNARKs
 
 ---
 
@@ -57,9 +57,3 @@ Developed a decentralized credential verification system using zk-SNARK circuits
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:utu3528@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/utkarsh-3528)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/utkarsh-3528)
-
----
-
-If you want, I can also make an **even more compact version for GitHub** that fits perfectly on the profile top and is super scannable.
-
-Do you want me to do that?

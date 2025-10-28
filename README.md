@@ -1,6 +1,6 @@
 # Utkarsh Mahajan 👋
 
-**Software Developer | Full-Stack, Blockchain & Distributed AI Systems**
+**Software Developer | Full-Stack, Blockchain & RWA & Defi, Decentralised compute**
 
 I build **production-grade RWA, Defi, AI, and cloud solutions** with expertise in **Go, Python, TypeScript, Solidity, Rust, and performance-optimized architectures**. I specialize in **scalable microservices, distributed systems, and zero-knowledge protocols**, delivering secure and high-performance applications.
 

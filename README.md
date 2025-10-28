@@ -9,7 +9,7 @@ I build **production-grade RWA, Defi, AI, and cloud solutions** with expertise i
 ## What I Do
 
 * Build **scalable backend systems** and microservices with Go, Python, and TypeScript
-* Develop **blockchain solutions** using Cosmos SDK, Substrate, zk-Rollups, and zk-SNARKs
+* Develop **RWA/Defi solutions** for custom purpose
 * Design and maintain **distributed AI and inference engines** with generative AI, LangChain, Ray, and vLLM
 * Optimize **databases and cloud infrastructure** (MongoDB, PostgreSQL, MySQL, DynamoDB, Pinecone, AWS, Azure, GCP)
 * Implement **DevOps and monitoring pipelines** with Docker, Terraform, Prometheus, Grafana, and Kubernetes

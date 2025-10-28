@@ -2,7 +2,7 @@
 
 **Software Developer | Full-Stack, Blockchain & Distributed AI Systems**
 
-I build **production-grade Web3, AI, and cloud solutions** with expertise in **Go, Python, TypeScript, Solidity, Rust, and performance-optimized architectures**. I specialize in **scalable microservices, distributed systems, and zero-knowledge protocols**, delivering secure and high-performance applications.
+I build **production-grade RWA, Defi, AI, and cloud solutions** with expertise in **Go, Python, TypeScript, Solidity, Rust, and performance-optimized architectures**. I specialize in **scalable microservices, distributed systems, and zero-knowledge protocols**, delivering secure and high-performance applications.
 
 ---
 

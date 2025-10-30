@@ -29,10 +29,6 @@ Developed a decentralized credential verification system using zk-SNARK circuits
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh352&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh352&layout=compact&theme=radical)
-
 
 ## Tools & Technologies
 
